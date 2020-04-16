@@ -1,0 +1,48 @@
+StartTime = -17
+RightMove: StTime = 31 EdTime = 18
+CollectCoin:  time = 49
+RightMove: StTime = 50 EdTime = 19
+CollectCoin:  time = 51
+CollectCoin:  time = 52
+CollectCoin:  time = 53
+LittleState: StTime = -17 EdTime = 56
+Totaltime = 73
+Jump:  StTime = 38 EdTime = 56
+Die:  Gap 
+NEWLEVELSTART
+StartTime = -17
+CollectCoin:  time = 43
+CollectCoin:  time = 43
+RightMove: StTime = 30 EdTime = 37
+Jump:  StTime = 41 EdTime = 51
+RightMove: StTime = 49 EdTime = 50
+RightMove: StTime = 65 EdTime = 63
+LeftMove: StTime = 91 EdTime = 2
+LeftMove: StTime = 103 EdTime = 4
+LeftMove: StTime = 108 EdTime = 25
+CollectCoin:  time = 130
+CollectCoin:  time = 132
+LittleState: StTime = -17 EdTime = 135
+Totaltime = 152
+Die:  Gap 
+NEWLEVELSTART
+StartTime = -17
+Jump:  StTime = 13 EdTime = 23
+CollectCoin:  time = 35
+CollectCoin:  time = 37
+CollectCoin:  time = 38
+CollectCoin:  time = 39
+RightMove: StTime = 5 EdTime = 104
+LeftMove: StTime = 286 EdTime = 32
+Jump:  StTime = 287 EdTime = 297
+LeftMove: StTime = 295 EdTime = 50
+LeftMove: StTime = 329 EdTime = 59
+LittleState: StTime = -17 EdTime = 415
+Totaltime = 432
+Jump:  StTime = 400 EdTime = 415
+Die:  EnemyType = FlowerEnemy 
+NEWLEVELSTART
+StartTime = -17
+Totaltime = 612
+RightMove: StTime = 2 EdTime = 697
+LittleState: StTime = -17 EdTime = 595
